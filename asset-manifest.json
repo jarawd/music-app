@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cc4ee7d.css",
-    "main.js": "/static/js/main.2b4bc709.js",
-    "static/js/453.08c78f33.chunk.js": "/static/js/453.08c78f33.chunk.js",
-    "static/media/Inter-variable.ttf": "/static/media/Inter-variable.e05c5f3d1fa6a3893d84.ttf",
-    "static/media/me.jpeg": "/static/media/me.7ba022aa050b00d25769.jpeg",
-    "static/media/hero.jpeg": "/static/media/hero.808d1f05c40f43df73fd.jpeg",
-    "static/media/close.svg": "/static/media/close.1885e81e983633d48a976029f3c8bae5.svg",
-    "static/media/github.svg": "/static/media/github.e7e2bc8e3b94958f09a23ee8a5aaae7a.svg",
-    "index.html": "/index.html",
-    "static/media/linkedin.svg": "/static/media/linkedin.55fb388c4c9df6986ca32fe64a60414a.svg",
-    "static/media/menu.svg": "/static/media/menu.0a6ddfdbe436047db1e6efac25300f09.svg",
-    "main.3cc4ee7d.css.map": "/static/css/main.3cc4ee7d.css.map",
-    "main.2b4bc709.js.map": "/static/js/main.2b4bc709.js.map",
-    "453.08c78f33.chunk.js.map": "/static/js/453.08c78f33.chunk.js.map"
+    "main.css": "/news-app/static/css/main.f3abf12e.css",
+    "main.js": "/news-app/static/js/main.22a664b2.js",
+    "static/js/453.08c78f33.chunk.js": "/news-app/static/js/453.08c78f33.chunk.js",
+    "static/media/Inter-variable.ttf": "/news-app/static/media/Inter-variable.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/me.jpeg": "/news-app/static/media/me.7ba022aa050b00d25769.jpeg",
+    "static/media/hero.jpeg": "/news-app/static/media/hero.808d1f05c40f43df73fd.jpeg",
+    "static/media/close.svg": "/news-app/static/media/close.1885e81e983633d48a976029f3c8bae5.svg",
+    "static/media/github.svg": "/news-app/static/media/github.e7e2bc8e3b94958f09a23ee8a5aaae7a.svg",
+    "index.html": "/news-app/index.html",
+    "static/media/linkedin.svg": "/news-app/static/media/linkedin.55fb388c4c9df6986ca32fe64a60414a.svg",
+    "static/media/menu.svg": "/news-app/static/media/menu.0a6ddfdbe436047db1e6efac25300f09.svg",
+    "main.f3abf12e.css.map": "/news-app/static/css/main.f3abf12e.css.map",
+    "main.22a664b2.js.map": "/news-app/static/js/main.22a664b2.js.map",
+    "453.08c78f33.chunk.js.map": "/news-app/static/js/453.08c78f33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cc4ee7d.css",
-    "static/js/main.2b4bc709.js"
+    "static/css/main.f3abf12e.css",
+    "static/js/main.22a664b2.js"
   ]
 }
