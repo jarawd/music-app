@@ -13,16 +13,28 @@ export default function Footer() {
         >
           Inicio
         </a>
-        <img
-          src={github}
-          alt="github icon"
-          className="footer__social"
-        />
-        <img
-          src={linkedin}
-          alt="linkedin icon"
-          className="footer__social"
-        />
+        <a
+          href="https://github.com/jarawd"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src={github}
+            alt="github icon"
+            className="footer__social"
+          />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/orlando-jara-976288271/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src={linkedin}
+            alt="linkedin icon"
+            className="footer__social"
+          />
+        </a>
       </div>
     </div>
   );
