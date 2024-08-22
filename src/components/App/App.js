@@ -25,7 +25,7 @@ function App() {
           setNotFound(true);
           setPreloaderState(false);
           setTypeError('Error Server');
-          return Promise.reject(new Error(`Error: ${data.status}`));
+          throw new Error(`Error: ${data.status}`);
         }
       })
       .then((res) => {

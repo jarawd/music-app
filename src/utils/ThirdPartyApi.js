@@ -19,13 +19,20 @@ class ThirdPartyApi {
 
   getCards(topic) {
     return fetch(
-      `${this._urlBase}?q=${topic}&from=${this._sevenDaysAgo}&to=${this._currentDate}&sortBy=popularity&apiKey=${this._api_key}`
+      `${this._urlBase}?q=${topic}&from=${this._sevenDaysAgo}&to=${this._currentDate}&sortBy=popularity&apiKey=${this._api_key}`,
+      {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+        },
+      }
     );
   }
 }
 
 const api = new ThirdPartyApi({
-  urlBase: 'https://newsapi.org/v2/everything',
+  urlBase: 'https://news.desarrollointerno.com/v2/everything',
   api_key: '73f5c381034b4392ac1b980d04a0c9d2',
 });
 
